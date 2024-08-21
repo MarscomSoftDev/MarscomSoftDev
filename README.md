@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Jonathan Martinez Salinas**, a **Systems Eng
 - 🌱 **Learning:** Cybersecurity & Advanced Web Development
 - 👯 **Collaboration:** Always open to collaborate on innovative projects, especially in IoT and cybersecurity.
 - 💬 **Ask me about:** How to secure your networks, or any cool web development ideas!
-- ⚡ **Fun fact:** When I'm not coding, I'm exploring the latest trends in technology or configuring a new IoT device.
+- ⚡ **Fun fact:** When I'm not coding, I'm exploring the latest trends in technology or practicing backend in Javascript.
 
 ### 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
