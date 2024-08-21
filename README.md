@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm **Jonathan Martinez Salinas**, a **Systems Eng
 - 🔒 **Cybersecurity:** Expanding my knowledge on network security, encryption, and ethical hacking.
 
 ### 🤝 Connect with Me
-[![LinkedIn](www.linkedin.com/in/jonathan-martínez-salinas)
-[![Facebook]([https://www.facebook.com/profile.php?id=100044408056224&mibextid=ZbWKwL))
-[![Instragram]([[https://www.instagram.com/jonathanmartinezs037?igsh=ZG9yOXBobW5qcjk0)))
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100044408056224&mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanmartinezs037?igshid=ZG9yOXBobW5qcjk0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-mart%C3%ADnez-salinas)
