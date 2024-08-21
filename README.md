@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **Jonathan Martinez Salinas**, a **Systems Eng
 ### 🚀 About Me
 - 🔧 **Experience:** IoT Architect, Network Specialist, CCTV Systems Expert
 - 🌱 **Learning:** Cybersecurity & Advanced Web Development
-- 👯 **Collaboration:** Always open to collaborate on innovative projects, especially in IoT and cybersecurity.
+- 👯 **Collaboration:** Collaboration: always open to collaborate on innovative projects, especially in IoT, now with a 100% focus on web development
 - 💬 **Ask me about:** How to secure your networks, or any cool web development ideas!
 - ⚡ **Fun fact:** When I'm not coding, I'm exploring the latest trends in technology or practicing backend in Javascript.
 
