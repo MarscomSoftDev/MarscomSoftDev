@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Jonathan Martinez Salinas**, a **Systems Engineer** with a strong passion for **Cybersecurity** and **Web Development**. My journey in technology has taken me through the realms of **IoT**, **Networking**, and **CCTV systems** and I'm now diving deeper into the fascinating world of **web development**. 
+Welcome to my GitHub profile! I'm **Jonathan Martinez Salinas**, a **Systems Engineer** **CEO of Marscom**with a strong passion for **Cybersecurity** and **Web Development**. My journey in technology has taken me through the realms of **IoT**, **Networking**, and **CCTV systems** and I'm now diving deeper into the fascinating world of **web development**. 
 
 ### 🚀 About Me
 - 🔧 **Experience:** IoT Architect, Network Specialist, CCTV Systems Expert
