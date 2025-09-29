@@ -3,17 +3,17 @@
   <img src="https://raw.githubusercontent.com/MarscomSoftDev/MarscomSoftDev/main/assets/banner.png" alt="Jonathan Martinez Salinas Banner" width="100%"/>
 </p>
 
-# 👋 ¡Bienvenidos a mi guarida digital! 🕷️
+# 👋 ¡Bienvenidos a espacio digital! 🕷️
 
-Soy **Jonathan Martinez Salinas**, **Ingeniero de Sistemas** 👨‍💻 con una fuerte pasión por el **Desarrollo Web** 🌐 y la **Ciberseguridad** 🔐.  
-Mi experiencia combina **IoT, CCTV, cableado estructurado y electricidad** ⚡ con mi actual enfoque en **Full Stack Development** y **Ethical Hacking**.  
+Soy **Jonathan Martinez Salinas**, **Ingeniero de Sistemas** 👨‍💻 con una fuerte pasión por el **Desarrollo Web** 🌐 y la **Ciberseguridad** 🔐.  Tengo experiencia practica en
+**IoT, CCTV, cableado estructurado y electricidad residencial** ⚡ estoy en camino para convertirme en **Full Stack Development**. 
 
 ---
 
 ## 🚀 Sobre mí  
 - 🔧 **Experiencia:** IoT, CCTV, cableado estructurado y electricidad residencial.  
 - 🌱 **Aprendizaje:** Desarrollo Web Avanzado con **Java + Spring Boot** y Ciberseguridad.  
-- 👯 **Colaboración:** Me encanta sumar en proyectos **innovadores y desafiantes**.  
+- 👯 **Colaboración:** Me encanta sumar en proyectos.  
 - 💬 **Pregúntame sobre:** Seguridad de redes, cifrado, desarrollo web y tecnología en general.  
 
 ---
