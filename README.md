@@ -1,7 +1,8 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://i.ibb.co/0ry6ZsV/banner-dark-mystery.gif" alt="Jonathan Martinez Salinas Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MarscomSoftDev/MarscomSoftDev/main/assets/banner-dark.gif" alt="Jonathan Martinez Salinas Banner" width="100%"/>
 </p>
+
 
 # 👋 ¡Bienvenidos a mi guarida digital!
 
