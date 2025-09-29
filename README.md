@@ -8,6 +8,9 @@
 Soy **Jonathan Martinez Salinas**, **Ingeniero de Sistemas** 👨‍💻 con una fuerte pasión por el **Desarrollo Web** 🌐 y la **Ciberseguridad** 🔐.  Tengo experiencia practica en
 **IoT, CCTV, cableado estructurado y electricidad residencial** ⚡ estoy en camino para convertirme en **Full Stack Development**. 
 
+En este espacio 🙂 practico y monto proyectos a través de herramientas digitales y lenguajes de programación, este 🚧 **ESTÁ y siempre estará en construcción**.
+
+
 ---
 
 ## 🚀 Sobre mí  
