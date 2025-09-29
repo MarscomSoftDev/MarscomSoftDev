@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarscomSoftDev/MarscomSoftDev/main/assets/banner-dark.gif" alt="Jonathan Martinez Salinas Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MarscomSoftDev/MarscomSoftDev/main/assets/banner.png" alt="Jonathan Martinez Salinas Banner" width="100%"/>
 </p>
 
 
