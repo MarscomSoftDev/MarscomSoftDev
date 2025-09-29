@@ -11,19 +11,23 @@
 
 
 ### 🛠️ Tecnologías y Herramientas
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Astra](https://img.shields.io/badge/-Astra-000000?style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 
 ### 📈 Estadísticas de GitHub
@@ -31,10 +35,8 @@
 ![Languages ​​principales](https://github-readme-stats.vercel.app/api/top-langs/?username=MarscomSoftDev&layout=compact&theme=radical)
 
 ### 🧠 Lo que estoy aprendiendo
-- 🌐 **Desarrollo web:** Profundizando en JavaScript avanzado, Node.js y frameworks frontend.
+- 🌐 **Desarrollo web:** Actualmente estoy aprendiendo JAVA con cursos largos y Sprint.
 - 🔒 **Ciberseguridad:** Ampliando mis conocimientos sobre seguridad de red, cifrado y hacking ético.
 
-### 🤝 Conéctate con Yo
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100044408056224&mibextid=ZbWKwL)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo =instagram&logoColor=blanco)](https://www.instagram.com/jonathanmartinezs037?igshid=ZG9yOXBobW5qcjk0)
+### 🤝 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=blanco)](https://www.linkedin.com/in/jonathan-mart%C3%ADnez-salinas)
