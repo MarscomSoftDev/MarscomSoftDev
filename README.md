@@ -45,6 +45,16 @@ En este espacio 🙂 practico y monto proyectos a través de herramientas digita
 
 ## 📊 Estadísticas de GitHub  
 
+
+
+<div align="center">
+
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarscomSoftDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarscomSoftDev&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF0000&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarscomSoftDev&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" height="165"/>
